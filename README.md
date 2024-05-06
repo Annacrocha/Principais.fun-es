@@ -1,9 +1,8 @@
 # Principais.fuções
 # GIT e GITHUB
 GIT e GITHUB são ferramentas que usadas em conjunto.
-O Github é uma “rede social dev” em que é possível armazenar e compartilhar projetos de desenvolvimento de software;é um sistema de controle de versão de arquivos; em outras palavras, é responsável por guardar o histórico de alterações sempre que alguém modificar algum arquivo que está sendo monitorado por ele.
 
-O Git é uma alternativa com um funcionamento mais interessante ainda: ele é distribuído e todo mundo tem uma cópia inteira do repositório, não apenas o "servidor principal", é um sistema de controle de versão distribuído e amplamente adotado.
+O Github é uma “rede social dev” em que é possível armazenar e compartilhar projetos de desenvolvimento de software;é um sistema de controle de versão de arquivos; em outras palavras, é responsável por guardar o histórico de alterações sempre que alguém modificar algum arquivo que está sendo monitorado por ele.
 
 O Git é um sistema de controle de versão distribuído e amplamente adotado. O Git nasceu e foi tomando espaço dos outros sistemas de controle. Ele se tornou bastante popular por, além de ser um SGVD, se tratar de uma ferramenta de código aberto gratuita, e ser fácil de começar a utilizar. Além disso, trata-se de uma ferramenta muito veloz, devido à sua arquitetura, suporta desenvolvimento não-linear, com milhares de ramificações e funciona muito bem com projetos grandes, afinal, foi pensado para suportar o controle de versões do Linux, um dos sistemas operacionais mais adotados no mundo.
 
